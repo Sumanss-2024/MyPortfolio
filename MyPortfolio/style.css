@@ -1,0 +1,27 @@
+.box {
+    background-color: rgb(234, 230, 225);
+    margin: auto;
+    width: 90%;
+    padding: 20px;
+    box-shadow: 2px 2px 2px 2px #888888;
+    border-radius: 5px;
+    
+}
+.box1 {
+    background-color: whitesmoke;
+    width: 100px;
+    height: 40px;
+    text-align: center;
+    padding-top: 20px;
+    border:2px solid #888888;
+    border-radius: 5px;
+}
+h1 {
+    text-align: center;
+}
+.pointer {
+    font-size: 20px;
+}
+.flex {
+    display: flex;
+}
